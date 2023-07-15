@@ -36,15 +36,15 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-    - title : AI-Powered Custom Checklists
+  - title : AI-Powered Custom Checklists
     description : FMN utilizes cutting-edge AI to create personalized checklists based on your daily activities and unique needs. It learns from your habits, ensuring important tasks and items, such as passports for trips, are never forgotten.
     fontawesome_icon_name : robot
 
-    - title : Task Completion Assurance
+  - title : Task Completion Assurance
     description : FMN offers a reassuring confirmation for every task you complete. It not only ensures you stay on track but also provides a sense of security and accomplishment.
-    -fontawesome_icon_name : check-circle
+    fontawesome_icon_name : check-circle
 
-    - title : Dynamic Task Management
+  - title : Dynamic Task Management
     description : FMN's flexible system allows you to add, edit, or rearrange tasks with ease. It adjusts to your preferences, making your task management process more intuitive and less time-consuming.
     fontawesome_icon_name : tasks
 
