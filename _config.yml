@@ -21,8 +21,8 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Fiona & Patrick
-your_link                                 : fionachiaraviglio.com
-your_city                                 : Remote
+your_link                                 : https://wwww.fionachiaraviglio.com
+your_city                                 : 
 email_address                             : patrick-fischer@live.de
 facebook_username                         :
 instagram_username                        :
@@ -106,7 +106,6 @@ sass:
 
 # Exclude these files from your production _site
 exclude:
-  - changelog.md
   - LICENSE
   - README.md
   - CNAME

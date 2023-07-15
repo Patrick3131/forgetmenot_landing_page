@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: true
+---
+
 **Privacy Policy**
 
 KP Ventures OU built the FMN - ForgetMeNot app as an Ad Supported app. This SERVICE is provided by KP Ventures OU at no cost and is intended for use as is.
